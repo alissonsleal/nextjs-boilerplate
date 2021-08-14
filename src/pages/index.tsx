@@ -4,8 +4,6 @@ type Props = {
   title: string
 }
 
-const fuba = 'teste'
-
 export default function Home({ title = 'Next JS Boilerplate' }: Props) {
   return (
     <div>
