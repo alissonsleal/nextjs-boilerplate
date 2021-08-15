@@ -3,7 +3,7 @@
 exports[`<Main /> should render the heading 1`] = `
 <main>
   <h1>
-    React avançado
+    Next js boilerplate
   </h1>
 </main>
 `;
