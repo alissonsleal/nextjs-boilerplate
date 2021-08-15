@@ -1,0 +1,22 @@
+{
+  "name": "Next JS Boilerlate",
+  "short_name": "Next JS",
+  "icons": [
+    {
+      "src": "/img/sunny-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/sunny.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#06092B",
+  "theme_color": "#06092B",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}

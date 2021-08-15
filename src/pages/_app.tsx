@@ -11,6 +11,7 @@ function App({ Component, pageProps }: AppProps) {
         <title>Next js Boilerplate</title>
         <link rel="shortcut icon" href="favicon.ico" />
         <link rel="apple-touch-icon" href="favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content="Simple project using next js :)" />
       </Head>
       <GlobalStyles />
