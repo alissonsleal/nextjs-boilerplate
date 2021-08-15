@@ -1,7 +1,9 @@
+import * as S from './style'
+
 const Main = () => (
-  <main>
-    <h1>Next js boilerplate</h1>
-  </main>
+  <S.Container>
+    <S.Header>Next js Boilerplate</S.Header>
+  </S.Container>
 )
 
 export default Main

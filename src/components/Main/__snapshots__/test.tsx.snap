@@ -1,9 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
-    Next js boilerplate
+<div
+  class="style__Container-sc-mrd04u-0 lhpscW"
+>
+  <h1
+    class="style__Header-sc-mrd04u-1 qTSzV"
+  >
+    Next js Boilerplate
   </h1>
-</main>
+</div>
 `;
