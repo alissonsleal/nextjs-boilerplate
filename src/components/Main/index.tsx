@@ -1,8 +1,8 @@
 import * as S from './style'
 
-const Main = () => (
+const Main = ({ title = 'Next js Boilerplate' }) => (
   <S.Container>
-    <S.Header>Next js Boilerplate</S.Header>
+    <S.Header>{title}</S.Header>
   </S.Container>
 )
 
